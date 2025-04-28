@@ -1,11 +1,3 @@
-/*
-
-const routes = [
-   
-  ];
-
-export default routes;
-*/
 
 import Home from "./pages/Home.jsx";
 import Actors from "./pages/Actors.jsx";
